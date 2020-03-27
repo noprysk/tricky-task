@@ -9,5 +9,4 @@ public class TrickyTaskApplication {
     public static void main(String[] args) {
         SpringApplication.run(TrickyTaskApplication.class, args);
     }
-
 }

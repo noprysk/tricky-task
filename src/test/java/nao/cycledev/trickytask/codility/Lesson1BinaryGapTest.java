@@ -4,7 +4,6 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 class Lesson1BinaryGapTest {
-
     @Test
     void solution1() {
         Assertions.assertThat(Lesson1BinaryGap.solution(9)).isEqualTo(2);
